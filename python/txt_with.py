@@ -1,3 +1,5 @@
+#スクレイピング_テストサイトのデータをIDLEで読み取りテキストファイルに読み込む
+
 import requests
 
 url = "https://www.ymori.com/books/python2nen/test1.html"
